@@ -1,0 +1,28 @@
+Rancangan Algoritma Sistem
+
+1. Program untuk mengerakkan camera secara memutar
+   - kamera memutar 360 derajat
+   - durasi sekali putaran kurang lebih 5 menit
+   - untuk memutar menggunakan servo
+
+2. Program untuk mengambil gambar pada camera digital/thermal
+   - kamera digital digunakan pada siang hari/ketika banyak cahaya
+   - kamera thermal digunakan pada malam hari. ketika tidak ada cahaya
+   - program dalam bahasa python
+   - menggunakan yolov4-tiny
+   - data yang dihasilkan berupa array/gambar
+   - pengambilan gambar dilakukan setiap 10 detik 
+
+3. Program untuk mengambil atau mengecek data pada program 
+pengambil gambar
+   - data yang didapat berupa array
+
+4. Program untuk menyalakan speaker/sensor ultrasonik
+   - ketika array yang didapatkan berupa monyet maka speaker akan 
+   memutar suara ledakan atau tembakan
+   - ketika array yang didapatkan berupa bird maka sensor 
+   ultrasonik akan dihidupkan
+
+5. Program untuk mengupload data dari sistem ke web
+   - data yang diupload berupa gambar/array
+   - penguploadan dilakukan kurang lebih setiap 30 detik
